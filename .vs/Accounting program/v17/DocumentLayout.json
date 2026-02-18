@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ENG.Abdullah\\Desktop\\Accounting program\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08D34E7E-20F2-4C81-BC54-0F89A595AE69}|Accounting program\\Accounting program.csproj|c:\\users\\eng.abdullah\\desktop\\accounting program\\accounting program\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D34E7E-20F2-4C81-BC54-0F89A595AE69}|Accounting program\\Accounting program.csproj|solutionrelative:accounting program\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D34E7E-20F2-4C81-BC54-0F89A595AE69}|Accounting program\\Accounting program.csproj|c:\\users\\eng.abdullah\\desktop\\accounting program\\accounting program\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08D34E7E-20F2-4C81-BC54-0F89A595AE69}|Accounting program\\Accounting program.csproj|solutionrelative:accounting program\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D34E7E-20F2-4C81-BC54-0F89A595AE69}|Accounting program\\Accounting program.csproj|C:\\Users\\ENG.Abdullah\\Desktop\\Accounting program\\accounting program\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{08D34E7E-20F2-4C81-BC54-0F89A595AE69}|Accounting program\\Accounting program.csproj|solutionrelative:accounting program\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08D34E7E-20F2-4C81-BC54-0F89A595AE69}|Accounting program\\Accounting program.csproj|c:\\users\\eng.abdullah\\desktop\\accounting program\\accounting program\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08D34E7E-20F2-4C81-BC54-0F89A595AE69}|Accounting program\\Accounting program.csproj|solutionrelative:accounting program\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:997636008:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1828497999:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:708775822:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:190670748:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\ENG.Abdullah\\Desktop\\Accounting program\\Accounting program\\Home.cs",
+              "RelativeDocumentMoniker": "Accounting program\\Home.cs",
+              "ToolTip": "C:\\Users\\ENG.Abdullah\\Desktop\\Accounting program\\Accounting program\\Home.cs*",
+              "RelativeToolTip": "Accounting program\\Home.cs*",
+              "ViewState": "AQIAABcAAAAAAAAAAAA8wCcAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:42:42.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ENG.Abdullah\\Desktop\\Accounting program\\Accounting program\\Home.cs",
+              "RelativeDocumentMoniker": "Accounting program\\Home.cs",
+              "ToolTip": "C:\\Users\\ENG.Abdullah\\Desktop\\Accounting program\\Accounting program\\Home.cs [Design]*",
+              "RelativeToolTip": "Accounting program\\Home.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T19:42:40.826Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ENG.Abdullah\\Desktop\\Accounting program\\Accounting program\\Employee.cs",
+              "RelativeDocumentMoniker": "Accounting program\\Employee.cs",
+              "ToolTip": "C:\\Users\\ENG.Abdullah\\Desktop\\Accounting program\\Accounting program\\Employee.cs",
+              "RelativeToolTip": "Accounting program\\Employee.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAkwDUAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:32:41.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ENG.Abdullah\\Desktop\\Accounting program\\Accounting program\\Employee.cs",
+              "RelativeDocumentMoniker": "Accounting program\\Employee.cs",
+              "ToolTip": "C:\\Users\\ENG.Abdullah\\Desktop\\Accounting program\\Accounting program\\Employee.cs [Design]",
+              "RelativeToolTip": "Accounting program\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T02:32:38.538Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
